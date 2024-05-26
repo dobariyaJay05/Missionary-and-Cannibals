@@ -1,3 +1,4 @@
+# Missionary and Cannibals
 The Missionary and Cannibal game is a Python-based application developed as part of the project portfolio at Patel Web Solution. It is a classic puzzle game that challenges players to solve a complex problem involving missionaries, cannibals, and a boat. The game provides an entertaining and intellectually stimulating experience for players of all ages.
 
 The primary objective of the Missionary and Cannabial game is to provide users with an interactive platform to solve the age-old river-crossing problem. The agenda includes:<br>
